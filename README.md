@@ -14,4 +14,4 @@ Video section
 - Limit div and conv
 - some example
 - limit of multi variable function
-- *maybe some calculus
+- *maybe some calculus*
