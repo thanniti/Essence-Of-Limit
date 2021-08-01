@@ -21,4 +21,5 @@ list
 - delta_update
 
 ## pics and vids of some update
+i know its horrible :(
 ![intro](https://github.com/thanniti/Essence-Of-Limit/blob/main/media/eof%20media%20pic%201.jpg)
