@@ -6,6 +6,9 @@ SoME videos (this repository contain source code of my videos)
 
 most of scenes in the video create by **[manim](https://github.com/3b1b/manim)
 
+## pics and vids of some update
+![intro](https://github.com/thanniti/Essence-Of-Limit/blob/main/media/eof%20media%20pic%201.jpg)
+
 ## Workflow
 Video section
 - - [x] #Main idea of [limit](https://tutorial.math.lamar.edu/classes/calcI/defnoflimit.aspx) :tada:
