@@ -15,10 +15,10 @@ Video section
 - - [ ] some example
 - - [ ] limit of multi variable function
 - *maybe some calculus?*
-#### custom function
+### custom function
 list
 - get_delta
 - delta_update
 
-### pics and vids of some update
+## pics and vids of some update
 ![intro](https://github.com/thanniti/Essence-Of-Limit/blob/main/media/eof%20media%20pic%201.jpg)
