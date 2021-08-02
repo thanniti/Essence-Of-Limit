@@ -23,7 +23,8 @@
   - show harmonic series
   - show the proper way to identify
 - show some property of limit
-- some example and solution (may be on white bord 🤔)
+- some example and solution **[may be on white bord 🤔]**
+- infinite square example **[animate]**
 
 ***Section 3 limit of multi variable function "maybeee"***
 
