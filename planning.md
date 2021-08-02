@@ -5,7 +5,7 @@ Intro
 - talk about the section of this video **[show section]**
 
 Section 1 "Defination" and limit of function
-- **[zoom in section 1 "Defination of limit"]
+- **[zoom in section 1 "Defination of limit"]**
 - motivation **[[link](https://en.wikipedia.org/wiki/Limit_of_a_function)]**
 - show graph and visualize the defination **[show graph and updator]**
 - limit does not exist **[show un-continuly function]**
