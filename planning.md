@@ -24,5 +24,6 @@ section 2 "infinite sequence and sum of series"
 - some example and solution (may be on white bord 🤔)
 
 Section 3 limit of multi variable function "maybeee"
+
 Section 4 limit and calculus "maybeeeeeeeeeeee"
 
