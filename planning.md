@@ -1,10 +1,10 @@
 # List of all scenes
-#### ***Intro***
+### ***Intro***
 - Quote about limit
 - talk about limit as the fundimental of calculus and infinite math **[show some integrate and differentiate as limit]**
 - talk about the section of this video **[show section]**
 
-#### ***Section 1 "Defination" and limit of function***
+### ***Section 1 "Defination" and limit of function***
 - **[zoom in section 1 "Defination of limit"]**
 - motivation **[[link](https://en.wikipedia.org/wiki/Limit_of_a_function)]**
 - show graph and visualize the defination **[show graph and updator]**
@@ -14,7 +14,7 @@
   - sinusodial
   - exponential
 
-#### ***section 2 "infinite sequence and sum of series"***
+### ***section 2 "infinite sequence and sum of series"***
 - limit of sequence and sum of series
 - visualize div and conv by graph
 - limit does not exist by div
@@ -26,7 +26,7 @@
 - some example and solution **[may be on white bord 🤔]**
 - infinite square example **[animate]**
 
-#### ***Section 3 limit of multi variable function "maybeee"***
+### ***Section 3 limit of multi variable function "maybeee"***
 
-#### ***Section 4 limit and calculus "maybeeeeeeeeeeee"***
+### ***Section 4 limit and calculus "maybeeeeeeeeeeee"***
 
