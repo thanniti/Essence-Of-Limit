@@ -3,6 +3,7 @@ Intro
 - Quote about limit
 -  Motivation
 - talk about the section of this video
+
 Section 1 "Defination"
 - zoom in section 1 "Defination of limit"
 - how graph and visualize the defination
