@@ -6,6 +6,9 @@ SoME videos (this repository contain source code of my videos)
 
 most of scenes in the video create by **[manim](https://github.com/3b1b/manim)
 
+## Full video on youtube
+**[link](https://www.youtube.com/watch?v=xOkqx88gE-0)
+
 ## Workflow
 Video section
 - - [x] #Main idea of [limit](https://tutorial.math.lamar.edu/classes/calcI/defnoflimit.aspx) :tada:
