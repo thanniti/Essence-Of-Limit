@@ -15,13 +15,7 @@ Video section
 - - [ ] some example
 - - [ ] limit of multi variable function
 - *maybe some calculus?*
-## example scene
-
-
-## custom function
-list
-- get_delta
-- delta_update
+## Full Video
+**[fullvideo](drive.google.com/drive/folders/17LuyWnkORG-_G4vTD867zu4JL_x89UVC?usp=sharing)
 ## post new update here
-i know its horrible :(
 ![intro](https://github.com/thanniti/Essence-Of-Limit/blob/main/media/eof%20media%20pic%201.jpg)
